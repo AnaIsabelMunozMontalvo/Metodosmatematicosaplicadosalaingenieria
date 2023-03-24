@@ -1,5 +1,5 @@
 # Metodosmatematicosaplicadosalaingenieria
-Métodos Matemáticos aplicados a la Ingeniería
+
 En esta libería presentamos una colección de códigos utilizados en la impartición de las 
 asignaturas Métodos Matemáticos aplicados a la Ingeniería de Materiales (del Grado en Ing. de Materiales de 
 la universidad Rey Juan Carlos) y Métodos Matemáticos aplicados a la
